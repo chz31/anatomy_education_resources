@@ -6,7 +6,7 @@ This guide suggests anatomical structures and spatial relationships that can be 
 
 
 ## Get the data
-- **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`) (please log in using your tamu.edu account):** [downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
+- **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`) (please log in Google Drive using your tamu.edu account):** [downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
 - 3D Slicer installation instruction can be found at [SLICER_INSTALLATION.md](https://github.com/chz31/anatomy_education_resources/blob/main/SLICER_INSTALLATION.md)
 
 
