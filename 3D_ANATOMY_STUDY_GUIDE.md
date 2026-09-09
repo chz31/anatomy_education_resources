@@ -10,8 +10,8 @@ This guide suggests anatomical structures and spatial relationships that can be 
 
 ## Important educational notice
 - This resource is optional and is provided for supplemental visualization and self-study only.
-- Students should base their examination preparation on the lectures, dissector, laboratory work, syllabus, and other officially designated course materials.
-- If this resource differs from official course materials or instructions, the official course materials and instructions take precedence.
+- **Students should base their examination preparation on the lectures, dissector, laboratory work, syllabus, and other officially designated course materials.**
+- **If this resource differs from official course materials or instructions, the official course materials and instructions take precedence.**
 - Automated segmentations can contain errors and are limited by the CT image quality, image resolution, and the segmentation model. Confirm relationships using the original CT slices and authoritative course resources.
 - This resource is not intended for diagnosis, clinical decision-making, or patient care.
 - **See [README](https://github.com/chz31/anatomy_education_resources/blob/main/README.md) for full educational notice, data source, license, and attribution notes**.
