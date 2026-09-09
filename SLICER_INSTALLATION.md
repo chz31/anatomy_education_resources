@@ -99,7 +99,7 @@ You do **not** need to install TotalSegmentator or any Slicer extensions to view
 - Check both the 3D view and the axial, sagittal, and coronal slice views.
 - A structure may be hidden behind another segment; temporarily hide the obstructing structure or reduce its opacity.
 
-### Slicer is slow
+### If Slicer is slow
 
 - Close other memory-intensive programs.
 - Hide structures that you are not currently examining.
