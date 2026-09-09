@@ -2,19 +2,13 @@
 
 This guide suggests anatomical structures and spatial relationships that can be explored using the accompanying 3D Slicer scene. Use the 3D models together with the original CT slices, dissector, lectures, and gross anatomy laboratory materials.
 
-> **Study reminder:** This is an optional supplemental reference. Examination content and expectations are determined by the syllabus and officially designated course materials. Segmentations are approximations and may contain errors; they should not replace study of the original images and course resources.
+> **Study reminder:** This is an optional supplemental reference. Examination content and expectations are determined by the syllabus and officially designated course materials. Segmentations are approximations and may contain errors; they should not replace study of the original images and course resources. **See [README](https://github.com/chz31/anatomy_education_resources/blob/main/README.md) for full educational notice, data source, license, and attribution notes**.
+
 
 ## Get the data
 - **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`) (please log in using your tamu.edu account):** [downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
 - 3D Slicer installation instruction can be found at [SLICER_INSTALLATION.md](https://github.com/chz31/anatomy_education_resources/blob/main/SLICER_INSTALLATION.md)
 
-## Important educational notice
-- This resource is optional and is provided for supplemental visualization and self-study only.
-- **Students should base their examination preparation on the lectures, dissector, laboratory work, syllabus, and other officially designated course materials.**
-- **If this resource differs from official course materials or instructions, the official course materials and instructions take precedence.**
-- Automated segmentations can contain errors and are limited by the CT image quality, image resolution, and the segmentation model. Confirm relationships using the original CT slices and authoritative course resources.
-- This resource is not intended for diagnosis, clinical decision-making, or patient care.
-- **See [README](https://github.com/chz31/anatomy_education_resources/blob/main/README.md) for full educational notice, data source, license, and attribution notes**.
 
 ## Before you begin
 - **Tutorial video for loading data into Slicer and interactively viewing 3D anatomy:** [video link](https://youtu.be/gJbVeTes4bc)
