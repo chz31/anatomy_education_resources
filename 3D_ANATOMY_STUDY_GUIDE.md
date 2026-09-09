@@ -140,13 +140,14 @@ Make the lung transparent or hide it by turning off the **eye icon**. A sagittal
 - How might the aortic arch contribute to the different arrangement on the left?
 - Can you confirm the 3D relationship in more than one CT plane?
 
-Right lung<br>
-<img width="400" alt="Screenshot 2026-09-01 155901" src="https://github.com/user-attachments/assets/c96233e8-2cf6-4e11-9083-36b392832e7b" />
-<img width="400" alt="Screenshot 2026-09-01 160153" src="https://github.com/user-attachments/assets/bc19d5f3-d86f-40d2-9b26-444c80a510f4" />
+Right side showing bronchus, pulmonary artery, and pulmonary veins at the root of the lung (lung hidden)<br>
+<img width="400" alt="Screenshot 2026-09-09 105213" src="https://github.com/user-attachments/assets/f5f05d34-d0c5-4073-98dd-be99420c38cb" />
+<img width="400" alt="Screenshot 2026-09-09 105353" src="https://github.com/user-attachments/assets/758e6a13-b603-4123-91bf-ca49e044a6cd" />
 
-Left lung<br>
-<img width="400" alt="Screenshot 2026-09-01 160303" src="https://github.com/user-attachments/assets/26168c71-0e28-4937-a5df-bd0ce0cf4c69" />
-<img width="400" alt="Screenshot 2026-09-01 160555" src="https://github.com/user-attachments/assets/2056e536-5191-457b-b3a3-15aea51ada9e" />
+<br>
+Left side showing bronchus, pulmonary artery, and pulmonary veins at the root of the lung (lung hidden)<br>
+<img width="400" alt="Screenshot 2026-09-09 105545" src="https://github.com/user-attachments/assets/a7e3e875-0d1d-4f52-9a1a-8ed208a19a7c" />
+<img width="400" alt="Screenshot 2026-09-09 105735" src="https://github.com/user-attachments/assets/58a877b6-369f-422f-963f-388209c5402c" />
 
 
 ## Final self-check
