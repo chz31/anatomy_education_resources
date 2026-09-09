@@ -54,7 +54,7 @@ Some Linux distributions require additional system packages. Consult the officia
 
 ## 4. Download the teaching scene
 
-1. Download the provided 3D Slicer scene to a folder on your computer: [Downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
+1. Download the provided 3D Slicer scene to a folder on your computer (**please log in using your tamu.edu account**): [Downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
 2. Confirm that the filename ends in `.mrb`.
 3. Wait until the download is complete before opening it.
 
