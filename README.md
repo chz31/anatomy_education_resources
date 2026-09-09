@@ -18,7 +18,7 @@ The tutorial and accompanying explanations reflect the creator's own work and vi
 
 - [3D Anatomy Study Guide](3D_ANATOMY_STUDY_GUIDE.md): suggested structures and relationships to examine in 3D and 2D.
 - **Tutorial video for loading data into Slicer and interactively viewing 3D anatomy:** [video link](https://youtu.be/gJbVeTes4bc)
-- **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`):** [downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
+- **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`) (please log in using your tamu.edu account):** [downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
 
 ## Source CT data
 
