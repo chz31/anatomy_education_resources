@@ -17,8 +17,8 @@ The tutorial and accompanying explanations reflect the creator's own work and vi
 ## Repository contents
 
 - [3D Anatomy Study Guide](3D_ANATOMY_STUDY_GUIDE.md): suggested structures and relationships to examine in 3D and 2D.
-- **Tutorial video:** `ADD_YOUTUBE_URL`
-- **3D Slicer scene (`.mrb`):** `ADD_DOWNLOAD_URL`
+- **Tutorial video:** [video link](https://youtu.be/gJbVeTes4bc)
+- **3D Slicer scene (`.mrb`):** [downloadable link](https://tamucs-my.sharepoint.com/:u:/g/personal/chi_zhang_tamu_edu/IQCMK8ClEAgxQbY2lnLdS0JuASLriPbVZLh8ZKkocIEAt6Y)
 
 ## Source CT data
 
