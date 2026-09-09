@@ -6,6 +6,8 @@ This repository accompanies a short tutorial on using a publicly available CT vo
 
 The resource is intended to supplement the anatomical relationships presented in the course dissector, lectures, and gross anatomy laboratory.
 
+A study guide can be found at [3D_ANATOMY_STUDY_GUIDE.md](https://github.com/chz31/anatomy_education_resources/blob/main/3D_ANATOMY_STUDY_GUIDE.md)
+
 ## Important educational notice (please read)
 
 - This resource is optional and is provided for supplemental visualization and self-study only.
