@@ -16,7 +16,7 @@ A study guide can be found at [3D_ANATOMY_STUDY_GUIDE.md](https://github.com/chz
 - Automated segmentations can contain errors and are limited by the CT image quality, image resolution, and the segmentation model. Confirm relationships using the original CT slices and authoritative course resources.
 - This resource is not intended for diagnosis, clinical decision-making, or patient care.
 
-The tutorial and accompanying explanations reflect the creator's own work and views. They do not represent or speak on behalf of any institution. The original data providers, the Imaging Data Commons, The Cancer Imaging Archive, 3D Slicer, and TotalSegmentator do not endorse this teaching resource.
+The [tutorial](https://github.com/chz31/anatomy_education_resources/blob/main/3D_ANATOMY_STUDY_GUIDE.md) and accompanying explanations reflect the creator's own work and views. They do not represent or speak on behalf of any institution. The original data providers, the Imaging Data Commons, The Cancer Imaging Archive, 3D Slicer, and TotalSegmentator do not endorse this teaching resource.
 
 ## Repository contents
 
