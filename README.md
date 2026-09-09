@@ -2,11 +2,9 @@
 
 This repository accompanies a short tutorial on using a publicly available CT volume and instructor-prepared anatomical segmentations in [3D Slicer](https://www.slicer.org/) to explore selected relationships in the trunk.
 
-3D Slicer installation instruction can be found at [SLICER_INSTALLATION.md](https://github.com/chz31/anatomy_education_resources/blob/main/SLICER_INSTALLATION.md)
-
 The resource is intended to supplement the anatomical relationships presented in the course dissector, lectures, and gross anatomy laboratory.
 
-A study guide can be found at [3D_ANATOMY_STUDY_GUIDE.md](https://github.com/chz31/anatomy_education_resources/blob/main/3D_ANATOMY_STUDY_GUIDE.md)
+A study guide can be found at [3D_ANATOMY_STUDY_GUIDE.md](https://github.com/chz31/anatomy_education_resources/blob/main/3D_ANATOMY_STUDY_GUIDE.md). 3D Slicer installation instruction can be found at [SLICER_INSTALLATION.md](https://github.com/chz31/anatomy_education_resources/blob/main/SLICER_INSTALLATION.md)
 
 ## Important educational notice (PLEASE READ)
 
@@ -21,6 +19,7 @@ The [tutorial](https://github.com/chz31/anatomy_education_resources/blob/main/3D
 ## Repository contents
 
 - [3D Anatomy Study Guide](3D_ANATOMY_STUDY_GUIDE.md): suggested structures and relationships to examine in 3D and 2D.
+- [SLICER_INSTALLATION.md](https://github.com/chz31/anatomy_education_resources/blob/main/SLICER_INSTALLATION.md): how to install the software and download the data set.
 - **Tutorial video for loading data into Slicer and interactively viewing 3D anatomy:** [video link](https://youtu.be/gJbVeTes4bc)
 - **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`) (please log in using your tamu.edu account):** [downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
 
