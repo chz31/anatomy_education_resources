@@ -2,9 +2,11 @@
 
 This repository accompanies a short tutorial on using a publicly available CT volume and instructor-prepared anatomical segmentations in [3D Slicer](https://www.slicer.org/) to explore selected relationships in the trunk.
 
+3D Slicer installation instruction can be found at [SLICER_INSTALLATION.md](https://github.com/chz31/anatomy_education_resources/blob/main/SLICER_INSTALLATION.md)
+
 The resource is intended to supplement the anatomical relationships presented in the course dissector, lectures, and gross anatomy laboratory.
 
-## Important educational notice
+## Important educational notice (please read)
 
 - This resource is optional and is provided for supplemental visualization and self-study only.
 - Students should base their examination preparation on the lectures, dissector, laboratory work, syllabus, and other officially designated course materials.
