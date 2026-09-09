@@ -5,7 +5,7 @@ This guide suggests anatomical structures and spatial relationships that can be 
 > **Study reminder:** This is an optional supplemental reference. Examination content and expectations are determined by the syllabus and officially designated course materials. Segmentations are approximations and may contain errors; they should not replace study of the original images and course resources.
 
 ## Get the data
-- **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`):** [downloadable link](https://tamucs-my.sharepoint.com/:u:/g/personal/chi_zhang_tamu_edu/IQCMK8ClEAgxQbY2lnLdS0JuASLriPbVZLh8ZKkocIEAt6Y)
+- **3D Slicer scene with the 3D CT volume with segmentation (`.mrb`):** [downloadable link](https://drive.google.com/file/d/1ybLQZzBahESlPH69cQmSKMhzkjs4jBkf/view?usp=sharing)
 
 ## Important educational notice
 - This resource is optional and is provided for supplemental visualization and self-study only.
