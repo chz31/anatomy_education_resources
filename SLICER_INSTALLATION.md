@@ -17,8 +17,10 @@ Older systems may still run Slicer but are not necessarily tested. See the offic
 ## 2. Download 3D Slicer
 
 1. Go to the official download page: <https://download.slicer.org/>
-2. Select the **Stable Release**. Do not select the Preview Release unless your instructor specifically asks you to use it.
+2. Select the **Stable Release**. Do not select the Preview Release (current stable is 5.12.3) unless your instructor specifically asks you to use it.
 3. Download the installer for your operating system.
+
+<img width="600" alt="Screenshot 2026-09-01 160757" src="https://github.com/user-attachments/assets/2babcbd2-bbb3-4797-925d-25e5036e4749" />
 
 > **Important:** Download Slicer only from the official 3D Slicer website. The Stable Release is more thoroughly tested and is the recommended option for this activity.
 
@@ -38,6 +40,8 @@ If you can choose the installation location, use a path containing only standard
 2. Drag `Slicer.app` into the **Applications** folder.
 3. Open Slicer from the Applications folder.
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c1ff3c22-f3fa-4422-8f32-991b951d592f" />
+
 Do not run Slicer directly from the opened `.dmg`; moving it to Applications is necessary for normal operation. If macOS prevents installation or opening on an institution-managed computer, contact your local IT support rather than changing security settings yourself.
 
 ### Linux
@@ -50,7 +54,7 @@ Some Linux distributions require additional system packages. Consult the officia
 
 ## 4. Download the teaching scene
 
-1. Download the provided 3D Slicer scene to a folder on your computer: `ADD_SCENE_DOWNLOAD_URL`
+1. Download the provided 3D Slicer scene to a folder on your computer: [Downloadable link](https://tamucs-my.sharepoint.com/:u:/g/personal/chi_zhang_tamu_edu/IQCMK8ClEAgxQbY2lnLdS0JuARK_-b91jEecwB5-2Q82XGE?e=T6AHth)
 2. Confirm that the filename ends in `.mrb`.
 3. Wait until the download is complete before opening it.
 
